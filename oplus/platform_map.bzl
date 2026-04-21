@@ -118,7 +118,6 @@ _platform_map = {
             {"name": "volcano6.dtb"},
         ],
         "dtbo_list": [
-            {"name": "prado-25811-volcano-overlay.dtbo"},
         ],
     },
     "pineapple-tuivm": {
